@@ -1,5 +1,7 @@
 # Guild-Wars-2-Ray-Tracing
 
+ReShade only: https://www.youtube.com/watch?v=GDv6W7AoQeY
+
 SETUP
 
 1. Download the modded version of ReShade that disables the network buffer overflow: https://github.com/Not-Smelly-Garbage/Reshade-Unlocked/releases
